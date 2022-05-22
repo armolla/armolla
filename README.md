@@ -1,9 +1,9 @@
-### Hello! My name is Ulises Armolla and this is my profile!!
+### Hello! My name is Ulises Armolla and this is my profile!! ✨ ✨
 ![HTTP Error 404](https://user-images.githubusercontent.com/105997583/169716542-f0142945-17e5-41ec-98a5-caf0e780600c.jpg)
 
-<!--
-**armolla/armolla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**armolla/armolla** is a  _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+<!--
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
