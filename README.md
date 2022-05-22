@@ -2,7 +2,7 @@
 ![HTTP Error 404](https://user-images.githubusercontent.com/105997583/169718216-525f96db-94ca-4b6d-97c3-7cf77cd6b1e9.jpg)
 
 ### About me:
-Me gusta trabajar en equipo aportando un buen clima de trabajo e ideas concretas, tomando las críticas con optimismo y humor.
+Me gusta trabajar en equipo aportando un buen clima de trabajo e ideas concretas, tomando las críticas con optimismo y humor.<br/>
 Soy un desarrollador FullStack equilibrado y versátil, me siento cómodo tanto con el front como con el back!! 😄😄
 ### Además, amo tomar mate!!
 <!--
