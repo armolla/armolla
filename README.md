@@ -1,4 +1,5 @@
 ### Hello! My name is Ulises Armolla and this is my profile!! 👋
+<hr>
 <!--
 **armolla/armolla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
