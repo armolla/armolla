@@ -1,5 +1,5 @@
 ### Hello! My name is Ulises Armolla and this is my profile!! ✨ ✨
-![HTTP Error 404](https://user-images.githubusercontent.com/105997583/169716542-f0142945-17e5-41ec-98a5-caf0e780600c.jpg)
+![HTTP Error 404](https://user-images.githubusercontent.com/105997583/169718216-525f96db-94ca-4b6d-97c3-7cf77cd6b1e9.jpg)
 <hr/>
 
 <!--
